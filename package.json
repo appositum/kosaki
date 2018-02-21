@@ -1,0 +1,40 @@
+{
+  "name": "kosaki",
+  "private": true,
+  "version": "1.0.1",
+  "description": "Bot for discord",
+  "main": "bot.js",
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GO2S/kosaki.git"
+  },
+  "author": "Ramon Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GO2S/kosaki/issues"
+  },
+  "homepage": "https://github.com/GO2S/kosaki#readme",
+  "dependencies": {
+    "common-tags": "^1.4.0",
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0",
+    "dotenv": "^4.0.0",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.3",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.1",
+    "simple-youtube-api": "^3.0.1",
+    "underscore": "^1.8.3",
+    "ytdl-core": "^0.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
