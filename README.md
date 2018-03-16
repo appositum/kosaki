@@ -6,7 +6,7 @@ O **BOT** é compartilhado para fins educacionais e não é destinado a ser hosp
 
 ### Lista de contribuidores
 - [Ramon](https://github.com/r4monrodr1gues)
-- [Ed](https://github.com/eudescar)
+- [Ed](https://github.com/appositum)
 
 # Setup
 
