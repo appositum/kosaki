@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GO2S/kosaki.git"
+    "url": "git+https://github.com/appositum/kosaki.git"
   },
   "author": "Ramon Rodrigues",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GO2S/kosaki/issues"
+    "url": "https://github.com/appositum/kosaki/issues"
   },
-  "homepage": "https://github.com/GO2S/kosaki#readme",
+  "homepage": "https://github.com/appositum/kosaki#readme",
   "dependencies": {
     "common-tags": "^1.4.0",
     "discord.js": "^11.2.1",
