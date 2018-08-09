@@ -5,7 +5,7 @@ const { CommandoClient, FriendlyError } = require('discord.js-commando')
 const { PREFIX_COMMAND, TOKEN, OWNER_ID } = process.env
 
 const client = new CommandoClient({
-  commandPrefix: PREFIX_COMMAND,
+  commandPrefix: PREFIX_COMMAND || 'k!',
   unknownCommandResponse: false,
   owner: OWNER_ID,
   disableEveryone: true
