@@ -31,4 +31,4 @@ Thanks
 
 License
 -------------
-[MIT License](https://raw.githubusercontent.com/eudescar/kosaki/master/LICENSE)
+[MIT License](https://raw.githubusercontent.com/appositum/kosaki/master/LICENSE)
