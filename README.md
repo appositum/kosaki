@@ -5,7 +5,7 @@
 O **BOT** é compartilhado para fins educacionais e não é destinado a ser hospedado em seu próprio servidor.
 
 ### Lista de contribuidores
-- [Ramon](https://github.com/r4monrodr1gues)
+- [Ramon](https://github.com/ramon3g)
 - [Ed](https://github.com/appositum)
 
 # Setup
