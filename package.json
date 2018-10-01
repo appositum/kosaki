@@ -32,7 +32,7 @@
     "request-promise": "^4.2.1",
     "simple-youtube-api": "^3.0.1",
     "underscore": "^1.8.3",
-    "ytdl-core": "^0.17.1"
+    "ytdl-core": "^0.17.1";
   },
   "devDependencies": {
     "nodemon": "^1.12.1"
